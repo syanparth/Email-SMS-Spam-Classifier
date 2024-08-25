@@ -11,7 +11,7 @@ This repository contains the implementation of a spam classifier using machine l
 6. [Model Evaluation](#model-evaluation)
 7. [Conclusion](#conclusion)
 
-## Project Overvie
+## Project Overview
 
 This project aims to develop a spam classifier that can differentiate between spam and ham messages using machine learning techniques.
 
